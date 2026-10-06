@@ -1,3 +1,7 @@
+## Video Instructions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UNtvwc0EA4?si=lcyB5hT9oNzJovJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Alkanes
 
 In [organic chemistry](https://en.wikipedia.org/wiki/Organic_chemistry), an **alkane** consists of [hydrogen](https://en.wikipedia.org/wiki/Hydrogen) and [carbon](https://en.wikipedia.org/wiki/Carbon) atoms arranged in a [tree](https://en.wikipedia.org/wiki/Tree_\(graph_theory\)) structure (from wikipedia). Alkanes have the general chemical formula [C](https://en.wikipedia.org/wiki/Carbon)n[H](https://en.wikipedia.org/wiki/Hydrogen)2n+2 and the first few are summarized in the table below. You have likely heard of a few of them. Here are the first few:
