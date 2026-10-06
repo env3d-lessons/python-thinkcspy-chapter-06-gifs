@@ -1,6 +1,6 @@
 ## Video Instructions
 
-[![Watch the Assignment Video Overview](https://img.youtube.com/vi/3UNtvwc0EA4/maxresdefault.jpg)](https://youtu.be/3UNtvwc0EA4)
+[![Watch the Assignment Video Overview](https://img.youtube.com/vi/3UNtvwc0EA4/hqdefault.jpg)](https://youtu.be/3UNtvwc0EA4)
 
 ## Alkanes
 
